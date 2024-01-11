@@ -1,6 +1,6 @@
 /**
  * Mon Jan 08
- * Lesson 111 : Looping Arrays: The for-or Loop
+ * Lesson 112 : Looping Arrays: The for-or Loop
  * 
  */
 
